@@ -23,12 +23,59 @@ https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
 
 **Attention:** Please perform the steps given in these tutorials at your own risk. Please don't mess up with the System Variables. It can potentially damage your PC. You should know what you're doing.
 
+# Prerequisite:
+ After setting Environmental Variable ,we need to install some Libraries that needed for our projects,to install libraries follow following steps:
+ > Run command prompt as Administrator and install each library using following commands:
+ * **Matplotlib** : Matplotlib is one of the most popular Python packages used for data visualization. It is a cross-platform library for making 2D plots from data in arrays. It        provides an object-oriented API that helps in embedding plots in applications using Python GUI toolkits such as PyQt, WxPythonotTkinter. For showing multiple images in one      window ,we are insatlling this library here.
+
+
+  ```javascript
+  pip install matplotlib
+  ```
+ 
+ * **Imutils** : A series of convenience functions to make basic image processing functions such as translation, rotation, resizing, skeletonization, displaying Matplotlib images,      sorting contours, detecting edges, and much more easier with OpenCV  .
+
+
+  ```javascript
+  pip install imutils
+  ```
+
+* **Wheel** : Wheels are a component of the Python ecosystem that helps to make package installs just work. They allow for faster installations and more stability in the package       distribution process.
+
+ 
+   ```javascript
+   pip install wheel
+   ```
+
+* **PIL(Python Imaging Library)** : It adds support for opening,manipulating, and saving many different image formats.
+   ```javascript
+   pip install Pillow
+   ```
+
+* **Opencv** : OpenCV is a library of programming functions mainly aimed at real-time computer vision,with installation of opencv library Numerical Python library too get install so   no need to install numpy again . NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large     collection of high-level mathematical functions to operate on these arrays.
+   ```javascript
+   pip install opencv-python
+   ```
+
+* **Scientific Python(SciPy)** : SciPy contains modules for optimization, linear algebra, integration, interpolation, special functions, FFT, signal and image processing.
+   ```javascript
+   pip install scipy
+   ```
+* **Opencv-Contrib** : Consist of Additional  Contribution Packages of Opencv.
+   ```javascript
+   pip install opencv-contrib-python
+   ```
+
+
+
+
+
+
 
 # Credits :
 
 
 I thanks to my Mentor @Sanjay sir for guiding for this projects.
-
 
 
 
