@@ -75,7 +75,7 @@ https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
 # Credits :
 
 
-I thanks to my Mentor @Sanjay sir for guiding for this projects.
+I thanks to my Mentor @Sanjay sir for guiding for this projects .
 
 
 
