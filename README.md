@@ -66,7 +66,12 @@ https://www.onmsft.com/how-to/how-to-set-an-environment-variable-in-windows-10
    pip install opencv-contrib-python
    ```
 
+# Files
+ > Download haarcascade_frontalface_default.xml file from [here](https://osdn.net/projects/sfnet_magicvisionport/downloads/mvp/cascades/haarcascade_frontalface_default.xml/) .
 
+
+
+ > For capturing images from your smartphone download **IP WEBCAM** app from **Playstore** to your smartphone ,and connect your laptop with same network on which smartphone        connected and then run start server option from app,the camera will be open with that ,you will get server address use that in program as your url, and simultaneously run the     program ,you will get result.
 
 
 
